@@ -10,9 +10,12 @@
 - 🔔 Notificaciones de sistema con `win10toast`
 - 🎛️ Control por comandos de voz: *Miguel pausar*, *Miguel reanudar*, *Miguel salir*
   ----------------------------------------------------------
+ necesitas tener instalado:
+-Python 3.8 o superior
+-Git para Windows
+-pip install opencv-python sounddevice scipy Pillow pygetwindow SpeechRecognition win10toast
 
-necesitas tener instalado:
-Python 3.8 o superior
-Git para Windows
-pip install opencv-python sounddevice scipy Pillow pygetwindow SpeechRecognition win10toast
+
 Este proyecto está pensado para fines educativos y personales. No se debe utilizar para espiar o violar la privacidad de terceros sin consentimiento.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
