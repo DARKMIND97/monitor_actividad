@@ -1,6 +1,6 @@
 # monitor_actividad
 # 🧠 Miguel - Asistente de Monitoreo Inteligente para Windows
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades  Python
 
 - 📷 Captura de pantalla al detectar ventanas relevantes (navegadores, explorador, etc.)
 - 🎥 Toma de fotos desde la webcam
