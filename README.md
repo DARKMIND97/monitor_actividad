@@ -1,4 +1,5 @@
 # monitor_actividad
+# 🧠 Miguel - Asistente de Monitoreo Inteligente para Windows
 necesitas tener instalado:
 Python 3.8 o superior
 Git para Windows
